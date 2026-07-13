@@ -1,0 +1,11 @@
+[
+  {
+    "id": "example-step",
+    "title": "Inspect the model",
+    "instruction": "Replace this URL with a publicly served GLB file and add your real instruction.",
+    "model": "/models/example.glb",
+    "orientation": "flat",
+    "camera": { "x": 0, "y": 0, "z": 50, "target": { "x": 0, "y": 0, "z": 0 } },
+    "annotations": []
+  }
+]

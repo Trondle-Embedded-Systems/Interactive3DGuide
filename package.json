@@ -1,0 +1,1 @@
+{ "name": "@tes-wiki/3d-step-generator", "version": "0.1.0", "type": "module", "main": "./src/index.js", "peerDependencies": { "@react-three/drei": ">=9", "@react-three/fiber": ">=8", "framer-motion": ">=12", "react": ">=18", "three": ">=0.161" } }
