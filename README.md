@@ -1,4 +1,4 @@
-# 3D Step Generator
+# Interactive 3D Guide
 
 An embeddable React/Three.js guided 3D instruction module. It displays one GLB/GLTF model per step, supports camera presets, model orientation, annotations, named-object centering, URL-safe step navigation, and a JSON editor for content authors.
 
