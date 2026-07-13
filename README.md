@@ -2,8 +2,7 @@
 
 An embeddable React/Three.js guided 3D instruction module. It displays one GLB/GLTF model per step, supports camera presets, model orientation, annotations, named-object centering, URL-safe step navigation, and a JSON editor for content authors.
 
-![Uploading Animation.gif…]()
-
+<img width="1341" height="1055" alt="Animation" src="https://github.com/user-attachments/assets/bc3c54a8-5842-4b31-9d1f-a620017e6f4e" />
 
 ## Requirements
 
