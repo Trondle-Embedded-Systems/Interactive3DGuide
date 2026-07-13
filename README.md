@@ -2,6 +2,8 @@
 
 An embeddable React/Three.js guided 3D instruction module. It displays one GLB/GLTF model per step, supports camera presets, model orientation, annotations, named-object centering, URL-safe step navigation, and a JSON editor for content authors.
 
+<img width="1302" height="1032" alt="Animation" src="https://github.com/user-attachments/assets/8d43cba2-64a4-44cd-b049-e2d1cc78f8bf" />
+
 ## Requirements
 
 React 18+, `three`, `@react-three/fiber`, `@react-three/drei`, and `framer-motion`. The package is intentionally framework-neutral; it works in Vite, Next.js, Remix, and similar React apps. Render the viewer only on the client because WebGL and GLTF loading require a browser.
