@@ -46,14 +46,6 @@ Models should be publicly reachable URLs, or paths served by the host site. Keep
 
 `orientation` accepts `flat`, `up`, `down`, `left`, or `right`. Annotation directions accept `up`, `down`, `north`, `south`, `east`, `west`, or a custom `{x,y,z}` vector. `position` is preferred for precise annotation placement; `targetObject` can be used when GLTF node names are stable.
 
-## Export checklist
-
-1. Copy this directory into the public repository.
-2. Copy `src/` without the parent site's aliases, Tailwind, Tina, or database code.
-3. Install the peer dependencies listed above.
-4. Serve `.glb` files from the public site or a CORS-enabled CDN.
-5. Import `Guided3DSteps` and provide a JSON array or JSON string.
-6. Test on a device without WebGL and retain the written instructions as the fallback.
 
 ## Accessibility and production notes
 
